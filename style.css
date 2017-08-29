@@ -1,0 +1,51 @@
+#titlestyle {
+    color: #FF8ABD;
+    font-size: 300%;
+    font-family: 'Pacifico', cursive;
+    padding-top: 5%;
+    /*padding-left: 30%;*/
+    /*padding-bottom: 1%;*/
+    */
+}
+
+
+body {}
+
+#content {
+    border: 50px solid transparent;
+    -webkit-border-image: url(eyebg.gif) 50 round;
+    -o-border-image: url(eyebg.gif) 50 round;
+    border-image: url(eyebg.gif) 50 round;
+    background: white;
+    width: 99.9%;
+    height: 100%;
+    position: absolute;
+    left: 0%;
+    color: white;
+}
+
+.navbar-brand {
+    padding: 130px;
+}
+
+#titlespacing {
+    padding-left: 25%;
+    padding-top: 1%;
+}
+
+#cc_strinfo_song_tranceilfm {
+    color: black;
+}
+
+.col-md-4 {
+    margin-top: 100%;
+   
+
+}
+
+p {
+    font-family: 'Calligraffitti';
+    font-size: 15px;
+}
+
+
